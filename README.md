@@ -33,7 +33,7 @@
 **Libraries & Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,flask" />
+<img src="https://skillicons.dev/icons?i=github,vscode,flask" />
 </p>
 
 
@@ -44,13 +44,13 @@
 * AI-driven merchandising platform
 * Nearby shop discovery system
 * Multi-shop management system
-* live link : <a href="https://munimai.onrender.com"></a>
+* live link : <p> <a href="https://munimai.onrender.com"></a> </p>
 ### 📸 Smart Attendance System
 
 * Face recognition based attendance system
 * Corporate team management
 * Automated attendance tracking
-* live link : <a href = " https://upasthit-smart-system-1.onrender.com"></a>
+* live link : <p> <a href = " https://upasthit-smart-system-1.onrender.com"></a> </p>
 ---
 
 ## 🌱 Currently Learning
