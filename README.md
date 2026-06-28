@@ -44,13 +44,17 @@
 * AI-driven merchandising platform
 * Nearby shop discovery system
 * Multi-shop management system
-* live link : <p> <a href="https://munimai.onrender.com"></a> </p>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://munimai.onrender.com)
+[![Repository](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinayparmar2264/MinmAI)
+
 ### 📸 Smart Attendance System
 
 * Face recognition based attendance system
 * Corporate team management
 * Automated attendance tracking
-* live link : <p> <a href = " https://upasthit-smart-system-1.onrender.com"></a> </p>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://upasthit-smart-system-1.onrender.com)
+[![Repository](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinayparmar2264/Upasthiti--Smart_Attendance_System)
+
 ---
 
 ## 🌱 Currently Learning
