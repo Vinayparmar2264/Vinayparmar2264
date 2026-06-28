@@ -4,13 +4,11 @@
 
 ### 💻 Aspiring Software Developer
 
-### 🌱 Currently learning DSA, Machine Learning & Full Stack Development
-
 ---
 
 ## 🧑‍💻 About Me
 
-* 🎓 B.Tech CSE (AI & ML)  student at LNCT Bhopal
+* 🎓 Pre-final year B.Tech CSE (AI & ML)  student at LNCT Bhopal
 * 💡 Interested in Artificial Intelligence, Machine Learning & Software Development
 * 🌱 Currently learning DSA, Full Stack Development & ML
 * 💻 Love building practical projects and solving coding problems
@@ -29,39 +27,36 @@
 **Web Development**
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 **Libraries & Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,mysql,flask" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,flask" />
 </p>
 
 
 ---
-
 ## 💻 Projects
 
 ### 🛍️ MunimAI
-
 * AI-driven merchandising platform
 * Nearby shop discovery system
 * Multi-shop management system
-
+* live link : <a href="https://munimai.onrender.com"></a>
 ### 📸 Smart Attendance System
 
 * Face recognition based attendance system
 * Corporate team management
 * Automated attendance tracking
-
+* live link : <a href = " https://upasthit-smart-system-1.onrender.com"></a>
 ---
 
 ## 🌱 Currently Learning
 
 * Data Structures & Algorithms
 * Machine Learning
-* Full Stack Development
 * Data Science
 
 ---
